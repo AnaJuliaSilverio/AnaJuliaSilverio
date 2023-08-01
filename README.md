@@ -7,10 +7,12 @@ I'm Ana Julia and I'm currently studying back-end development with a focus on Ja
 <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
+### 🌐 Socials
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-silverio-21a9491b8/)
+
 ### 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaJuliaSilverio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSilverio&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaSilverio&layout=compact)
 
-## 🌐 Socials
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-silverio-21a9491b8/)
+
 
